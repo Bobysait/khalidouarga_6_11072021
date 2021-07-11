@@ -18,11 +18,4 @@ nodemon  (version 2.0.9)
 l'API nécéssite un fichier .env à placer dans le dossier config.
 Celui-ci contient les données de connexion à la base de donnée mongoDB
 
-Vous pouvez créer le votre en utilisant et en complétant :
-
-PORT=3000
-DB_CLUSTER_NAME=Votre_Nom_De_Cluster
-DB_USER_NAME=Votre_Identifiant_De_Connexion_A_la_DB
-DB_USER_PASS=Votre_Password_De_Connexion_A_la_DB
-DB_NAME=Nom_De_Votre_DB
-TOKEN_SECRET=Un_Tolen_Unique_Que_Vous_Pouvez_Generer_Ou_Inventer
+Vous pouvez créer le votre en utilisant et en complétant le fichier env_sample présent dans le dossier config
