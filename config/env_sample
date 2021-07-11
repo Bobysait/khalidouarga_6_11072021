@@ -1,0 +1,6 @@
+PORT=3000
+DB_CLUSTER_NAME=Votre_Nom_De_Cluster
+DB_USER_NAME=Votre_Identifiant_De_Connexion_A_la_DB
+DB_USER_PASS=Votre_Password_De_Connexion_A_la_DB
+DB_NAME=Nom_De_Votre_DB
+TOKEN_SECRET=Un_Tolen_Unique_Que_Vous_Pouvez_Generer_Ou_Inventer
